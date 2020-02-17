@@ -1,1 +1,3 @@
 # WhatsappAnalysis
+I’ll be working with data from a Whatsapp Group Chat but you can make use of your own data. Simply open the Whatsapp app on your mobile, navigate to the chat you want to analyze (I’ll suggest a group chat for its wide range of visualization options), click on the vertical ellipsis (the three small dots beside the phone symbol), click on More, select Export chat and choose WITHOUT MEDIA. Including media takes ages to export and we don’t want that. Then select the Email option and export.
+Download the exported chat data from your email and save it as Chat.txt in a new folder specially created for this project. The chat data is in text file format and we will use Python to clean and transform this data.
